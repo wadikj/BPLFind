@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.932,=C:\Projects\ARTICLES\BPLFind\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,=C:\Projects\ARTICLES\BPLFind\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,=C:\Projects\ARTICLES\BPLFind\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,C:\Projects\ARTICLES\BPLFind\u_help.dfm=C:\Projects\ARTICLES\BPLFind\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,C:\Projects\ARTICLES\BPLFind\main.dfm=C:\Projects\fastreport\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,C:\Projects\ARTICLES\BPLFind\Unit2.pas=C:\Projects\ARTICLES\BPLFind\u_ExtraInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,C:\Projects\ARTICLES\BPLFind\main.pas=C:\Projects\fastreport\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,C:\Projects\ARTICLES\BPLFind\u_help.pas=C:\Projects\ARTICLES\BPLFind\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,=C:\Projects\fastreport\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,=C:\Projects\fastreport\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,C:\Projects\ARTICLES\BPLFind\Unit2.dfm=C:\Projects\ARTICLES\BPLFind\u_ExtraInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.934,C:\Projects\ARTICLES\BPLFind\u_consts.pas=C:\Projects\ARTICLES\BPLFind\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,C:\Projects\ARTICLES\BPLFind\bplfind.dproj=C:\Projects\fastreport\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
